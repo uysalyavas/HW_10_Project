@@ -1,2 +1,3 @@
 .gitignore
 https://github.com/github/gitignore
+echo "text_ignore.txt" >> .gitignore
